@@ -14,4 +14,4 @@ print(a*10)
 
 print(True * False)
 
-print(a)
+print(a + 10)
